@@ -21,7 +21,7 @@ Anaconda can be installed [here](https://www.anaconda.com/download/),choose the 
 
 1. Windows key
 1. Anaconda navigator
-1. Click enviroments (left)
+1. Click enviroments (left) ![enviroments tab](https://github.com/WesleyTheGeolien/GeoScripts/blob/setup/figures/enviroments.png)
 1. Create (bottom)
 1. Give it a name and choose python then click Ok
 1. Go to home tab
