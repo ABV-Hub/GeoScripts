@@ -24,3 +24,6 @@ Anaconda can be installed [here](https://www.anaconda.com/download/),choose the 
 1. Click enviroments (left)
 1. Create (bottom)
 1. Give it a name and choose python then click Ok
+1. Go to home tab
+1. Choose enviroment in dropdow at top (name given earlier)
+1. Install Jupyter Lab and Jupyter Notebook
