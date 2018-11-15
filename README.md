@@ -16,3 +16,11 @@ Anaconda can be installed [here](https://www.anaconda.com/download/),choose the 
 1. Just you (unless you have admin rights)
 1. Default location
 1. Untick everything then click install
+
+# Setting up enviroments
+
+1. Windows key
+1. Anaconda navigator
+1. Click enviroments (left)
+1. Create (bottom)
+1. Give it a name and choose python then click Ok
