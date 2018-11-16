@@ -1,0 +1,4 @@
+jupyterlab
+jupyter
+pandas
+pyproj
