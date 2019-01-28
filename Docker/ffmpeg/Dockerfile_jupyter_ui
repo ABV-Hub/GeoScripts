@@ -1,0 +1,11 @@
+FROM jupyter/base-notebook
+
+USER root
+RUN apt update && apt install --assume-yes \
+  ffmpeg
+
+USER $NB_UID
+
+RUN rm -rf work
+COPY convert.ipynb .
+RUN mkdir frames
